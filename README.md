@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devamchaudhari
-- 👀 I’m interested in frontend developer, UI/UX desgining.
-- 🌱 I’m currently learning about HTML, CSS, JS, Human Centered Design.
+- 👀 I’m a frontend developer.
+- 🌱 I’m currently learning about JavaScript, Reactnative, typescript.
 
 <!---
 Devamchaudhari/Devamchaudhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
