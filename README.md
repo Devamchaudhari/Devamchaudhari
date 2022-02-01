@@ -1,4 +1,4 @@
-<h1>🙌� Hi, I’m Devamchaudhari</h1>
+<h1>🙌Hi, I’m Devamchaudhari</h1>
 <br>
 - 👀 I’m a frontend developer.
 - <br>
