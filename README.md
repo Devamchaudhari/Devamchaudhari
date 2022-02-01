@@ -1,6 +1,7 @@
 <h1> 👋 Hi, I’m Devamchaudhari</h1>
--
+<br>
 - 👀 I’m a frontend developer.
+- <br>
 - 🌱 I’m currently learning about JavaScript, Reactnative, typescript.
 
 <!---
