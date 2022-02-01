@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m @Devamchaudhari</h1>
+<h1> 👋 Hi, I’m Devamchaudhari</h1>
 -
 - 👀 I’m a frontend developer.
 - 🌱 I’m currently learning about JavaScript, Reactnative, typescript.
