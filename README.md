@@ -9,6 +9,7 @@
 <a href="https://www.behance.net/devamchaud7cf7" target="_blank"><img align="left" alt="Devam | Behance" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
 <a href="https://dribbble.com/ChaudhariDevam" target="_blank"><img align="left" alt="Devam | Dribbble" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dribbble.svg" />
 <a href="https://dev.to/chaudharidevam" target="_blank"><img align="left" alt="dev to devam" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+ <a href="/"><img class="javascript-logo logo-large" src="/etc/clientlibs/pluralsight/main/images/js-logo.png" alt="JavaScript.com logo"></a>
 <br>
 <br>
   
