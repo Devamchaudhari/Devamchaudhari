@@ -34,7 +34,7 @@
 </a>
  
 ### Profile visitor:
- ![Visitor Count](https://profile-counter.glitch.me/{Devamchaudhari}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{Devamchaudhari}/count.svg&&color=orange)
 
 <!---
 Devamchaudhari/Devamchaudhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
