@@ -34,7 +34,6 @@
 </a>
  
 ### Profile visitor:
- <br>
  ![Visitor Count](https://profile-counter.glitch.me/{Devamchaudhari}/count.svg)
 
 <!---
