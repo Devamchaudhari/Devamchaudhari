@@ -21,11 +21,10 @@
  <a href="/"><img align="left" class="javascript-logo logo-large" width="27px" src="https://github.com/Devamchaudhari/Devamchaudhari/blob/main/js-logo-sm.png" alt="JavaScript.com logo"></a>
 <br />
 <br />
-<h3>
-- 👀 I’m a frontend developer.
-- <br>
-- 🌱 I’m currently learning about JavaScript, Reactnative, typescript.
-</h3>
+
+### Now Playing 🎧
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31oq27am2gi3kh2j5ji4fw3j2ps4)
+
 <!---
 Devamchaudhari/Devamchaudhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
