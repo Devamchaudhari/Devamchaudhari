@@ -25,6 +25,10 @@
 ### Now Playing 🎧
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31oq27am2gi3kh2j5ji4fw3j2ps4)
 
+ 
+[![Devam's github stats](https://github-readme-stats.vercel.app/api?username=Devamchaudhari
+&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)]
+
 <!---
 Devamchaudhari/Devamchaudhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
