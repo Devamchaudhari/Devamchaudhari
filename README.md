@@ -1,6 +1,6 @@
 <img src="https://github.com/Devamchaudhari/Devamchaudhari/blob/main/GITHUB%20README.png" width="900px">
 <br>
-<h1>Hey what's Up, I’m <span style="color:#ff9933">Devam Chaudhari</span></h1>
+<h1>Hey what's Up, I’m <span style="color:#ff9933;">Devam Chaudhari</span></h1>
 <br>
 <h3>
 - 👀 I’m a frontend developer.
