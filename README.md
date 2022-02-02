@@ -34,7 +34,7 @@
 </a>
  
 ### Profile visitor:
-![](https://komarev.com/ghpvc/?username=Devamchaudhari&color=orange;style=flat-square)
+![](https://komarev.com/ghpvc/?username=Devamchaudhari&color=orange&style=flat-square)
 
 <!---
 Devamchaudhari/Devamchaudhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
