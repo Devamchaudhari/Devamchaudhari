@@ -1,4 +1,4 @@
-<img src="https://github.com/Devamchaudhari/Devamchaudhari/blob/main/GITHUB.png" width="900px">
+<!-- <img src="" width="900px"> -->
 <br>
 <h1>🙌Hi, I’m Devamchaudhari</h1>
 <br>
