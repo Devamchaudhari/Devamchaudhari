@@ -1,6 +1,6 @@
 <img src="https://github.com/Devamchaudhari/Devamchaudhari/blob/main/GITHUB%20README.png" width="900px">
 <br>
-<h1>Hey what's Up, I’m <a href="#" target="_blank">Devam Chaudhari</a></h1>
+<h1>Hey what's Up, I’m <a href="#" target="_blank" style="text-decoration:none; color:#ff9933;">Devam Chaudhari</a></h1>
 <br>
 <h3>
 - 👀 I’m a frontend developer.
