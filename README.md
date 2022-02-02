@@ -1,6 +1,4 @@
-@import url(https://fonts.google.com/specimen/Bangers?query=Bangers#standard-styles);
-
-<h5 style="font:20px Bangers">Devam_Chaudhari</h5>
+<img src="https://github.com/Devamchaudhari/Devamchaudhari/blob/main/GITHUB%20README.png">
 <br>
 <h1>🙌Hi, I’m Devamchaudhari</h1>
 <br>
