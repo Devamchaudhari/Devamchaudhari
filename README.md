@@ -39,15 +39,7 @@ I ❤️ to Code.
 
 ### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Devamchaudhari"><img src="PAT_1/api/?username=Devamchaudhari&show_icons=true&hide=&count_private=true&title_color=fca311&text_color=ffffff&icon_color=fca311&bg_color=1c1917&hide_border=true&show_icons=true" alt="Devamchaudhari's GitHub stats" /></a>
-
-<a href="http://www.github.com/Devamchaudhari"><img src="PAT_1.herokuapp.com/?user=Devamchaudhari&stroke=ffffff&background=1c1917&ring=0891b2&fire=fca311&currStreakNum=ffffff&currStreakLabel=fca311&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Devamchaudhari"><img src="PAT_1.com/graph?username=Devamchaudhari&bg_color=1c1917&color=ffffff&line=fca311&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Devamchaudhari" align="left"><img src="PAT_1/api/top-langs/?username=Devamchaudhari&langs_count=10&title_color=fca311&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
 ### Profile visitor:
 ![](https://komarev.com/ghpvc/?username=Devamchaudhari&color=orange&style=flat-square)
 
