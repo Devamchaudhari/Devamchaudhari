@@ -10,8 +10,7 @@ I'm currently working at Scaletech Solution as a Jr. Frontend developer. <br>
 I ❤️ to Code.
 
 * 🌍  I'm based in Gujarat, Ahmedabad
-* ✉️  You can contact me at [devamchaudhari40@gmail.com](mailto:devamchaudhari40@gmail.com)
-* 🧠  I'm learning HTML5, CSS3, JS, Scss , Webpack, NodeJS, React Js, Typescript,
+* ✉️  You can contact me at [devamchaudhari40@gmail.com](mailto:devamchaudhari40@gmail.com).
 * ⚡  I'm selenophile 🌙.
 
 ### Skills
