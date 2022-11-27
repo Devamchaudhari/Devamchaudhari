@@ -6,7 +6,7 @@ Web developer & UI/UX designer
   </h1>
 
 
-I'm currently pursuing a degree in computer engineering and doing an internship at Scaletech Solution as a Frontend developer Intern. <br>
+I'm currently working at Scaletech Solution as a Jr. Frontend developer. <br>
 I ❤️ to Code.
 
 * 🌍  I'm based in Gujarat, Ahmedabad
