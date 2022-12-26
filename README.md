@@ -11,7 +11,6 @@ I ❤️ to Code.
 
 * 🌍  I'm based in Gujarat, Ahmedabad
 * ✉️  You can contact me at [devamchaudhari40@gmail.com](mailto:devamchaudhari40@gmail.com).
-* my portfolio [devamchaudhari.vercel.app.](https://devamchaudhari.vercel.app/)
 * ⚡  I'm selenophile 🌙.
 
 ### Skills
