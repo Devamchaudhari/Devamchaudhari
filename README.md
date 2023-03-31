@@ -1,4 +1,7 @@
-<img src="https://github.com/Devamchaudhari/Devamchaudhari/blob/main/GITHUB%20README.png" width="900px">
+<picture> 
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Devamchaudhari/Devamchaudhari/blob/main/light_img.png" width="900px">
+  <img src="https://github.com/Devamchaudhari/Devamchaudhari/blob/main/GITHUB%20README.png" width="900px">
+</picture>
 <br>
 <h1 style="color:white;">Hi 👋 My name is Devam Chaudhari
 <br>
