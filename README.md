@@ -49,8 +49,15 @@ I ❤️ to Code.
 </picture></a> <a href="https://stackoverflow.com/users/17909143/chaudhari-devam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" title="stackoverflow"/></a> <a href="https://www.twitter.com/ChaudhariDevam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" title="twitter"/></a></p>
 
 ### Badges
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/Devamchaudhari"><img src="https://github-readme-stats.vercel.app/api?username=Devamchaudhari&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Devamchaudhari's GitHub stats" /></a>
 
+<a href="http://www.github.com/Devamchaudhari"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Devamchaudhari&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Devamchaudhari"><img src="https://activity-graph.herokuapp.com/graph?username=Devamchaudhari&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Devamchaudhari" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devamchaudhari&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
 ### Profile visitor:
 ![](https://komarev.com/ghpvc/?username=Devamchaudhari&color=orange&style=flat-square)
 
