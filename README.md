@@ -45,7 +45,7 @@ I ❤️ to Code.
  </a> <a href="https://www.linkedin.com/in/devam-chaudhari-537ba7134/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" title="linkedin" /></a> <a href="http://www.medium.com/@devamchaudhari40" target="_blank" rel="noreferrer">
  <picture> 
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" >
- <img src="https://github.com/Devamchaudhari/Devamchaudhari/blob/main/Frame.png" width="32" height="32" title="github"/>
+ <img src="https://github.com/Devamchaudhari/Devamchaudhari/blob/main/Frame.png" width="32" height="32" title="medium"/>
 </picture></a> <a href="https://stackoverflow.com/users/17909143/chaudhari-devam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" title="stackoverflow"/></a> <a href="https://www.twitter.com/ChaudhariDevam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" title="twitter"/></a></p>
 
 ### Badges
