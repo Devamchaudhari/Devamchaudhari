@@ -48,17 +48,18 @@ I ❤️ to Code.
  <img src="https://github.com/Devamchaudhari/Devamchaudhari/blob/main/Frame.png" width="32" height="32" title="medium"/>
 </picture></a> <a href="https://stackoverflow.com/users/17909143/chaudhari-devam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" title="stackoverflow"/></a> <a href="https://www.twitter.com/ChaudhariDevam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" title="twitter"/></a></p>
 
-### Badges
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/Devamchaudhari"><img src="https://github-readme-stats.vercel.app/api?username=Devamchaudhari&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Devamchaudhari's GitHub stats" /></a>
 
 <a href="http://www.github.com/Devamchaudhari"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Devamchaudhari&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p>GitHub Commits Graph</p>
+### GitHub Commits Graph
 
 <a href="https://github.com/Devamchaudhari" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devamchaudhari&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+### Dev Card
+<a href="https://app.daily.dev/devamchaudhari"><img src="https://api.daily.dev/devcards/aa9ff5a6e38249fda7456845ebbf10e7.png?r=qv2" width="400" alt="devamchaudhari's Dev Card"/></a>
 ### Profile visitor:
 ![](https://komarev.com/ghpvc/?username=Devamchaudhari&color=orange&style=flat-square)
 
