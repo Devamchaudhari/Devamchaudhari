@@ -9,7 +9,7 @@ Web developer & UI/UX designer
   </h1>
 
 
-I'm currently working at Scaletech Solution as a Jr. Frontend developer. <br>
+Previously, I worked at Scaletech Solutions as a Jr. front-end developer, where I was responsible for working on various projects involving Reactjs, JavaScript, TypeScript, Redux, HTML5, and CSS3. <br>
 I ❤️ to Code.
 
 * 🌍  I'm based in Gujarat, Ahmedabad
