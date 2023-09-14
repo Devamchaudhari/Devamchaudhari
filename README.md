@@ -10,7 +10,7 @@ Web developer & UI/UX designer
 
 
 Previously, I worked at Scaletech Solutions as a Jr. front-end developer, where I was responsible for working on various projects involving Reactjs, JavaScript, TypeScript, Redux, HTML5, and CSS3. <br>
-I ❤️ to Code.
+I ❤️ to Code. Currently learning MERN Stack.
 
 * 🌍  I'm based in Gujarat, Ahmedabad
 * ✉️  You can contact me at [devamchaudhari40@gmail.com](mailto:devamchaudhari40@gmail.com).
