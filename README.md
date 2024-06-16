@@ -8,7 +8,7 @@
 Web developer & UI/UX designer
   </h1>
 
-In my previous position at Scaletech Solutions as a Jr. Front-end Developer, I delved into various projects, utilizing Reactjs, JavaScript, TypeScript, Redux, HTML5, and CSS3. Currently, I'm expanding my expertise at Cristatech while continuing my exploration of the Frontend developer 🚀💻 #FrontEndDeveloper #CodingPassion 
+In my previous position at Scaletech Solutions and Crista Infotech as a Jr. Front-end Developer, I delved into various projects, utilizing Reactjs, JavaScript, TypeScript, Redux, HTML5, and CSS3. Currently, I'm expanding my expertise at Addact Technologies Pvt. Ltd. while continuing my exploration of the Frontend developer 🚀💻 #FrontEndDeveloper #CodingPassion 
 
 * 🌍  I'm based in Gujarat, Ahmedabad
 * ✉️  You can contact me at [devamchaudhari40@gmail.com](mailto:devamchaudhari40@gmail.com).
