@@ -12,7 +12,6 @@ In my previous position at Scaletech Solutions and Crista Infotech as a Jr. Fron
 
 * 🌍  I'm based in Gujarat, Ahmedabad
 * ✉️  You can contact me at [devamchaudhari40@gmail.com](mailto:devamchaudhari40@gmail.com).
-* ⚡  I'm selenophile 🌙.
 
 ### Skills
 
