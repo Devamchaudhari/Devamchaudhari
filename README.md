@@ -5,7 +5,7 @@
 <br>
 <h1 style="color:white;">Hi 👋 My name is Devam Chaudhari
 <br>
-Web developer & UI/UX designer
+Frontend Developer
   </h1>
 
 In my previous position at Scaletech Solutions and Crista Infotech as a Jr. Front-end Developer, I delved into various projects, utilizing Reactjs, JavaScript, TypeScript, Redux, HTML5, and CSS3. Currently, I'm expanding my expertise at Addact Technologies Pvt. Ltd. while continuing my exploration of the Frontend developer 🚀💻 #FrontEndDeveloper #CodingPassion 
