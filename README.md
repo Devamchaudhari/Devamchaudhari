@@ -51,8 +51,7 @@ In my previous position at Scaletech Solutions and Crista Infotech as a Jr. Fron
 
 ### My GitHub Stats
 
-
-<a href="http://www.github.com/Devamchaudhari"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Devamchaudhari&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Devamchaudhari&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 
 ### CodeWar Badge
 ![](https://www.codewars.com/users/Devamchaudhari/badges/large)
