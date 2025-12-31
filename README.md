@@ -2,13 +2,6 @@
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Devamchaudhari/Devamchaudhari/blob/main/light_img.png" width="900px">
   <img src="https://github.com/Devamchaudhari/Devamchaudhari/blob/main/GITHUB%20README.png" width="900px">
 </picture> -->
-<br>
-<h1 style="color:white;">Hi My name is Devam Chaudhari 👋</h1>
-</hr>
-<h2>
-Frontend Developer
- </h2>
- </hr>
 
 In my previous position at Scaletech Solutions and Crista Infotech as a Jr. Front-end Developer, I delved into various projects, utilizing Reactjs, JavaScript, TypeScript, Redux, HTML5, and CSS3. Currently, I'm expanding my expertise at Addact Technologies Pvt. Ltd. while continuing my exploration of the Frontend developer 🚀💻 #FrontEndDeveloper #CodingPassion 
 
